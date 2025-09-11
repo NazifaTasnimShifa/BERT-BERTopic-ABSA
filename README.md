@@ -269,8 +269,8 @@ This project benefits significantly from the open-source community and the follo
 If you use this code or concepts from this repository in your research or project, please cite:
 
 ```bibtex
-@software{Shifa_ABSA_Airline_Tweets_2025,
-  author  = {Nazifa Tasnim Shifa},
+@software{Shifa_Hasan_Khan_ABSA_Airline_Tweets_2025,
+  author  = {Nazifa Tasnim Shifa and S. M. Mehedi Hasan and Md. Iqbal Haider Khan},
   title   = {Aspect-Based Sentiment Analysis of Airline Tweets Using BERT and BERTopic for Fine-Grained Feedback},
   year    = {2025},
   url     = {https://github.com/NazifaTasnimShifa/BERT-BERTopic-ABSA},
