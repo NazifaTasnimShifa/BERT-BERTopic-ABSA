@@ -11,7 +11,8 @@ It provides implementations of:
 - **Visualization tools** to compare model performance, including confusion matrices, accuracy comparisons, and training/validation loss curves.
 
 **Author:** Nazifa Tasnim Shifa (@NazifaTasnimShifa)
-**License:** MIT
+**LinkedIn:** Nazifa Tasnim Shifa ([@nazifa-tasnim-shifa](https://www.linkedin.com/in/nazifa-tasnim-shifa/))
+**License:** MIT 
 
 ---
 
@@ -282,6 +283,6 @@ If you use this code or concepts from this repository in your research or projec
 
 ## License
 
-MIT License © Nazifa Tasnim Shifa (@NazifaTasnimShifa)
+MIT License © Nazifa Tasnim Shifa ([@nazifa-tasnim-shifa](https://www.linkedin.com/in/nazifa-tasnim-shifa/))
 
 See the [LICENSE](LICENSE) file for full details.
